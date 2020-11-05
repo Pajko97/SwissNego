@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SwissNego/static/css/main.5a1839d8.chunk.css",
+    "main.js": "/SwissNego/static/js/main.3cdfd9ec.chunk.js",
+    "main.js.map": "/SwissNego/static/js/main.3cdfd9ec.chunk.js.map",
+    "runtime-main.js": "/SwissNego/static/js/runtime-main.a869ebd1.js",
+    "runtime-main.js.map": "/SwissNego/static/js/runtime-main.a869ebd1.js.map",
+    "static/js/2.6f348a53.chunk.js": "/SwissNego/static/js/2.6f348a53.chunk.js",
+    "static/js/2.6f348a53.chunk.js.map": "/SwissNego/static/js/2.6f348a53.chunk.js.map",
+    "static/js/3.66d248dd.chunk.js": "/SwissNego/static/js/3.66d248dd.chunk.js",
+    "static/js/3.66d248dd.chunk.js.map": "/SwissNego/static/js/3.66d248dd.chunk.js.map",
+    "index.html": "/SwissNego/index.html",
+    "static/css/main.5a1839d8.chunk.css.map": "/SwissNego/static/css/main.5a1839d8.chunk.css.map",
+    "static/js/2.6f348a53.chunk.js.LICENSE.txt": "/SwissNego/static/js/2.6f348a53.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/SwissNego/static/media/bg_man.5606312f.png",
+    "static/media/flower.6e855e09.svg": "/SwissNego/static/media/flower.6e855e09.svg",
+    "static/media/Apartments.module.css": "/SwissNego/static/media/mask.407ac99e.png",
+    "static/media/zoki.a438a617.svg": "/SwissNego/static/media/zoki.a438a617.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a869ebd1.js",
+    "static/js/2.6f348a53.chunk.js",
+    "static/css/main.5a1839d8.chunk.css",
+    "static/js/main.3cdfd9ec.chunk.js"
+  ]
+}
